@@ -1,6 +1,6 @@
 [
     {
-        "name": "alphine",
+        "name": "alpine",
         "imageUri": "amazonlinux"
     }
 ]
